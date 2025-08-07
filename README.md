@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/PuOVqP_cjkE?feature=shared" target="_blank">
+    <a href="" >
       <img src="https://github.com/softyanshi/banking/blob/main/dashboard.png" alt="Project Banner">
     </a>
   <br />
